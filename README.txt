@@ -1,6 +1,6 @@
 OverView Mod 16
 the purpose of this analysis is to become familuar with big data and using Spark. 
-eventaully psuhing results form Spark to pgAdmin via an AWS RDS instance
+eventaully psuhing results from Spark to pgAdmin via an AWS RDS instance
 
 This pseudo project analyizes the Amazo This data is music reviewsn reviews written by members of the paid Amazon Vine program for bias toward favorable reviews from Vine members.
 
