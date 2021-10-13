@@ -18,6 +18,9 @@ https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolde
 https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/Push%20vine%20table%20to%20pgAdmin%20Tables.png
 https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/pgAdminProductsTable.png
 
+D2 Deliverables
+https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/D2%20vine%20table%2025.png
+
 Summary: In my summary, there is alwasy bias for reviews. Specificly thre is bias in the Vine program. 
 The results of bias analysis to has the product id tied to zero (0) popular votes, verified purchase and with a high review headline.
 short answer - the high review headlines are profitting by sales of the prodcut ID with out data that it is good == no good votes.
