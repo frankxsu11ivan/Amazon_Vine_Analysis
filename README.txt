@@ -20,6 +20,9 @@ https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolde
 
 D2 Deliverables
 https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/D2%20vine%20table.png
+https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/D2%20vine%20table%2025.png
+https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/D2%20vine%20table%20helpful%2050.png
+
 
 
 Summary: In my summary, there is alwasy bias for reviews. Specificly thre is bias in the Vine program. 
