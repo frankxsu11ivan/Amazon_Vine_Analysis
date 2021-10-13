@@ -24,7 +24,11 @@ short answer - the high review headlines are profitting by sales of the prodcut 
 https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/bias%20data.png
 
 Results:
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+Bulleted Results (list) that addresses the three questions for unpaid and paid program reviews:
+*How many Vine reviews 
+*non-Vine reviews were there?
+*How many Vine reviews were 5 stars? 
+*How many non-Vine reviews were 5 stars?
+*What percentage of Vine reviews were 5 stars? 
+*What percentage of non-Vine reviews were 5 stars?
 
