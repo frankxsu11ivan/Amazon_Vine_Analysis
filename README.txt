@@ -2,7 +2,7 @@ OverView Mod 16
 the purpose of this analysis is to become familuar with big data and using Spark. 
 eventaully psuhing results from Spark to pgAdmin via an AWS RDS instance
 
-This pseudo project analyizes the Amazo This data is music reviewsn reviews written by members of the paid Amazon Vine program for bias toward favorable reviews from Vine members.
+This pseudo project analyizes the Amazon This data is music reviewsn reviews written by members of the paid Amazon Vine program for bias toward favorable reviews from Vine members.
 
 D1 Deliverables:
 ***An Amazon Review dataset is extracted as a DataFrame
@@ -29,7 +29,8 @@ https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolde
 
 Summary: In my summary, there is alwasy bias for reviews. Specificly thre is bias in the Vine program. 
 The results of bias analysis to has the product id tied to zero (0) popular votes, verified purchase and with a high review headline.
-short answer - the high review headlines are profitting by sales of the prodcut ID with out data that it is good == no good votes.
+short answer - the high review headlines are profitting by sales of the prodcut ID with out data that it is good == no good votes...and only 709 are Amazon paid.
+the paid data is not useful.
 https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolder/bias%20data.png
 
 Results:
