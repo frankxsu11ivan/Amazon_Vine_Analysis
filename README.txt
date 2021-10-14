@@ -34,10 +34,10 @@ https://github.com/frankxsu11ivan/Amazon_Vine_Analysis/blob/main/GitWorkingFolde
 
 Results:
 Bulleted Results (list) that addresses the three questions for unpaid and paid program reviews:
-*How many Vine reviews 
-*non-Vine reviews were there?
-*How many Vine reviews were 5 stars? 
-*How many non-Vine reviews were 5 stars?
-*What percentage of Vine reviews were 5 stars? 
-*What percentage of non-Vine reviews were 5 stars?
+*How many Vine reviews == Y ? 709
+*non-Vine reviews were there == not paid ? 2386061
+*How many Vine reviews were 5 stars?  159
+*How many non-Vine reviews were 5 stars? 1676546
+*What percentage of Vine reviews were 5 stars? .00006%
+*What percentage of non-Vine reviews were 5 stars? .99%
 
